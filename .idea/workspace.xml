@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a08dc61d-4f05-46cd-be43-81631fb7e684" name="Default Changelist" comment="" />
+    <list default="true" id="a08dc61d-4f05-46cd-be43-81631fb7e684" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenAlgorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/GenAlgorithm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GreedyAlgorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/GreedyAlgorithm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Individual.py" beforeDir="false" afterPath="$PROJECT_DIR$/Individual.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YqWIbJv8G52Yl0Qm1t9wXIKD1M" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/main.py" />
   </component>
   <component name="RunManager">
@@ -73,53 +86,69 @@
       <screen x="70" y="31" width="1850" height="1049" />
     </state>
     <state x="662" y="246" width="655" height="625" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/70.31.1850.1049@70.31.1850.1049" timestamp="1583687721828" />
+    <state x="1336" y="409" width="429" height="671" key="#xdebugger.XInspectDialog" timestamp="1584218225258">
+      <screen x="70" y="31" width="1850" height="1049" />
+    </state>
+    <state x="1336" y="409" width="429" height="671" key="#xdebugger.XInspectDialog/70.31.1850.1049@70.31.1850.1049" timestamp="1584218225258" />
     <state x="725" y="256" width="530" height="605" key="FileChooserDialogImpl" timestamp="1583670662106">
       <screen x="70" y="31" width="1850" height="1049" />
     </state>
     <state x="725" y="256" width="530" height="605" key="FileChooserDialogImpl/70.31.1850.1049@70.31.1850.1049" timestamp="1583670662106" />
-    <state width="1796" height="262" key="GridCell.Tab.0.bottom" timestamp="1583858605505">
+    <state width="1823" height="262" key="GridCell.Tab.0.bottom" timestamp="1584229456044">
       <screen x="70" y="31" width="1850" height="1049" />
     </state>
-    <state width="1796" height="262" key="GridCell.Tab.0.bottom/70.31.1850.1049@70.31.1850.1049" timestamp="1583858605505" />
-    <state width="1796" height="262" key="GridCell.Tab.0.center" timestamp="1583858605505">
+    <state width="1823" height="262" key="GridCell.Tab.0.bottom/70.31.1850.1049@70.31.1850.1049" timestamp="1584229456044" />
+    <state width="1823" height="262" key="GridCell.Tab.0.center" timestamp="1584229456044">
       <screen x="70" y="31" width="1850" height="1049" />
     </state>
-    <state width="1796" height="262" key="GridCell.Tab.0.center/70.31.1850.1049@70.31.1850.1049" timestamp="1583858605505" />
-    <state width="1796" height="262" key="GridCell.Tab.0.left" timestamp="1583858605505">
+    <state width="1823" height="262" key="GridCell.Tab.0.center/70.31.1850.1049@70.31.1850.1049" timestamp="1584229456044" />
+    <state width="1823" height="262" key="GridCell.Tab.0.left" timestamp="1584229456044">
       <screen x="70" y="31" width="1850" height="1049" />
     </state>
-    <state width="1796" height="262" key="GridCell.Tab.0.left/70.31.1850.1049@70.31.1850.1049" timestamp="1583858605505" />
-    <state width="1796" height="262" key="GridCell.Tab.0.right" timestamp="1583858605505">
+    <state width="1823" height="262" key="GridCell.Tab.0.left/70.31.1850.1049@70.31.1850.1049" timestamp="1584229456044" />
+    <state width="1823" height="262" key="GridCell.Tab.0.right" timestamp="1584229456044">
       <screen x="70" y="31" width="1850" height="1049" />
     </state>
-    <state width="1796" height="262" key="GridCell.Tab.0.right/70.31.1850.1049@70.31.1850.1049" timestamp="1583858605505" />
-    <state width="1823" height="325" key="GridCell.Tab.1.bottom" timestamp="1583790153162">
+    <state width="1823" height="262" key="GridCell.Tab.0.right/70.31.1850.1049@70.31.1850.1049" timestamp="1584229456044" />
+    <state width="1823" height="325" key="GridCell.Tab.1.bottom" timestamp="1584228120981">
       <screen x="70" y="31" width="1850" height="1049" />
     </state>
-    <state width="1823" height="325" key="GridCell.Tab.1.bottom/70.31.1850.1049@70.31.1850.1049" timestamp="1583790153162" />
-    <state width="1823" height="325" key="GridCell.Tab.1.center" timestamp="1583790153161">
+    <state width="1823" height="325" key="GridCell.Tab.1.bottom/70.31.1850.1049@70.31.1850.1049" timestamp="1584228120981" />
+    <state width="1823" height="325" key="GridCell.Tab.1.center" timestamp="1584228120980">
       <screen x="70" y="31" width="1850" height="1049" />
     </state>
-    <state width="1823" height="325" key="GridCell.Tab.1.center/70.31.1850.1049@70.31.1850.1049" timestamp="1583790153161" />
-    <state width="1823" height="325" key="GridCell.Tab.1.left" timestamp="1583790153161">
+    <state width="1823" height="325" key="GridCell.Tab.1.center/70.31.1850.1049@70.31.1850.1049" timestamp="1584228120980" />
+    <state width="1823" height="325" key="GridCell.Tab.1.left" timestamp="1584228120980">
       <screen x="70" y="31" width="1850" height="1049" />
     </state>
-    <state width="1823" height="325" key="GridCell.Tab.1.left/70.31.1850.1049@70.31.1850.1049" timestamp="1583790153161" />
-    <state width="1823" height="325" key="GridCell.Tab.1.right" timestamp="1583790153162">
+    <state width="1823" height="325" key="GridCell.Tab.1.left/70.31.1850.1049@70.31.1850.1049" timestamp="1584228120980" />
+    <state width="1823" height="325" key="GridCell.Tab.1.right" timestamp="1584228120980">
       <screen x="70" y="31" width="1850" height="1049" />
     </state>
-    <state width="1823" height="325" key="GridCell.Tab.1.right/70.31.1850.1049@70.31.1850.1049" timestamp="1583790153162" />
+    <state width="1823" height="325" key="GridCell.Tab.1.right/70.31.1850.1049@70.31.1850.1049" timestamp="1584228120980" />
     <state x="585" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584181058961">
       <screen x="70" y="31" width="1850" height="1049" />
     </state>
     <state x="585" y="344" key="com.intellij.ide.util.TipDialog/70.31.1850.1049@70.31.1850.1049" timestamp="1584181058961" />
+    <state x="552" y="70" width="876" height="978" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584218682118">
+      <screen x="70" y="31" width="1850" height="1049" />
+    </state>
+    <state x="552" y="70" width="876" height="978" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/70.31.1850.1049@70.31.1850.1049" timestamp="1584218682118" />
+    <state x="445" y="202" width="1089" height="713" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584221659941">
+      <screen x="70" y="31" width="1850" height="1049" />
+    </state>
+    <state x="445" y="202" width="1089" height="713" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/70.31.1850.1049@70.31.1850.1049" timestamp="1584221659941" />
+    <state x="575" y="38" width="839" height="1035" key="find.popup" timestamp="1584216742225">
+      <screen x="70" y="31" width="1850" height="1049" />
+    </state>
+    <state x="575" y="38" width="839" height="1035" key="find.popup/70.31.1850.1049@70.31.1850.1049" timestamp="1584216742225" />
     <state x="677" y="135" width="626" height="848" key="refactoring.ChangeSignatureDialog" timestamp="1583857180020">
       <screen x="70" y="31" width="1850" height="1049" />
     </state>
     <state x="677" y="135" width="626" height="848" key="refactoring.ChangeSignatureDialog/70.31.1850.1049@70.31.1850.1049" timestamp="1583857180020" />
-    <state x="574" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1583687914193">
+    <state x="574" y="45" width="840" height="1034" key="search.everywhere.popup" timestamp="1584207979612">
       <screen x="70" y="31" width="1850" height="1049" />
     </state>
-    <state x="574" y="45" width="840" height="1034" key="search.everywhere.popup/70.31.1850.1049@70.31.1850.1049" timestamp="1583687914193" />
+    <state x="574" y="45" width="840" height="1034" key="search.everywhere.popup/70.31.1850.1049@70.31.1850.1049" timestamp="1584207979612" />
   </component>
 </project>
